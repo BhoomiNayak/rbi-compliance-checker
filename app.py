@@ -228,8 +228,6 @@ def render_deepdive(results: list[AnalysisResult], transcripts_by_index: list) -
     if report.timestamp:
         meta += f" · {report.timestamp:%Y-%m-%d %H:%M}"
     st.caption(meta)
-    if not result.llm_used:
-        st.warning(" · ".join(result.notes) or "Deterministic-only analysis.")
 
     left, right = st.columns([1.1, 1])
     with left:
