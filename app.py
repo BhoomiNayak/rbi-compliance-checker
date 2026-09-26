@@ -17,7 +17,6 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from compliance.config import get_config
 from compliance.ingestion import ingest_upload, load_directory
 from compliance.models import CallComplianceReport, ComplianceStatus, Severity
 from compliance.pipeline import AnalysisResult, analyze_batch
@@ -284,12 +283,27 @@ def _run(transcripts) -> None:
 
 def main() -> None:
     _hero()
-    cfg = get_config()
 
     with st.sidebar:
+        st.markdown("### How it works")
+        st.markdown(
+            """
+            <div style="font-size:0.86rem;color:#6B6259;line-height:1.5;">
+            A <b>hybrid engine</b> audits each call:
+            <ul style="margin:0.4rem 0 0.2rem 1rem;padding:0;">
+              <li><b>Deterministic checks</b> — call timing (8am–7pm) and
+              re-contact limits, computed in Python.</li>
+              <li><b>AI analysis</b> — Hinglish/English threat &amp; coercion,
+              consent disclosure, and tone, via Gemini.</li>
+            </ul>
+            Each call gets a validated risk score (0–100), a status, and
+            violation cards with verbatim quotes and RBI references.
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+        st.markdown("---")
         st.markdown("### Ingestion")
-        if cfg.llm_enabled:
-            st.success(f"LLM enabled · {cfg.model}")
 
         uploaded = st.file_uploader(
             "Drop .txt transcripts or a .zip", type=["txt", "zip"], accept_multiple_files=True
