@@ -69,6 +69,12 @@ def _hero() -> None:
         <p class="rbi-sub">Audit debt-collection calls for RBI recovery-agent
         violations — Hinglish threat detection, consent &amp; timing checks, and
         regulator-ready reports. The compliance layer for AI collections agents.</p>
+        <div class="craft-badge">
+          Prototype built for
+          <a href="https://www.craftaihq.com/" target="_blank" rel="noopener">Craft AI</a>
+          — the Agentic AI OS for lending — as the compliance &amp; QA layer for its
+          collections voice agents.
+        </div>
         """,
         unsafe_allow_html=True,
     )
@@ -309,6 +315,19 @@ def main() -> None:
         run_upload = st.button("Analyze uploaded", use_container_width=True)
         st.markdown("---")
         run_samples = st.button("Load sample batch", use_container_width=True)
+        st.markdown("---")
+        st.markdown(
+            """
+            <div style="font-size:0.78rem;color:#6B6259;line-height:1.45;">
+            Built as a prototype for
+            <a href="https://www.craftaihq.com/" target="_blank" rel="noopener"
+            style="color:#C6482B;font-weight:700;text-decoration:none;">Craft AI</a>,
+            the Agentic AI OS for lending — a compliance &amp; QA layer for its
+            collections voice agents.
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
     if run_samples:
         _run(load_directory(SAMPLES_DIR))

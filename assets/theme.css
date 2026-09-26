@@ -51,6 +51,26 @@ h1, h2, h3, h4 {
   margin: 0.1rem 0 1.3rem 0;
 }
 
+/* "Built for Craft AI" attribution badge */
+.craft-badge {
+  display: inline-block;
+  background: var(--soft-pink);
+  border: 1px solid #E8C9C0;
+  border-left: 4px solid var(--brick);
+  border-radius: 10px;
+  padding: 0.55rem 0.85rem;
+  font-size: 0.85rem;
+  color: var(--maroon);
+  margin: 0 0 1.4rem 0;
+  max-width: 760px;
+}
+.craft-badge a {
+  color: var(--brick);
+  font-weight: 700;
+  text-decoration: none;
+}
+.craft-badge a:hover { text-decoration: underline; }
+
 /* Metric tiles (Craft AI colored feature cards) */
 .tile {
   border-radius: 16px;
