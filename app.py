@@ -290,8 +290,6 @@ def main() -> None:
         st.markdown("### Ingestion")
         if cfg.llm_enabled:
             st.success(f"LLM enabled · {cfg.model}")
-        else:
-            st.warning("No API key — deterministic checks only. Add GEMINI_API_KEY in .env for full analysis.")
 
         uploaded = st.file_uploader(
             "Drop .txt transcripts or a .zip", type=["txt", "zip"], accept_multiple_files=True
