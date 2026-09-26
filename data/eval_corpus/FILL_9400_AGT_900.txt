@@ -1,0 +1,7 @@
+Call_ID: FILL_9400
+Agent_ID: AGT_900
+Customer_ID: CUST_9000
+Call_Timestamp: 2026-09-22T10:00:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Namaskar, this is Rajesh calling from Apex Finance. Please note that this call is being recorded for quality and training purposes. Am I speaking with Mr. Sharma? [00:03] Customer: Haan ji, bolie, main Sharma bol raha hoon. [00:06] Agent: Hello sir, I am calling to gently remind you regarding your home loan EMI of Rs. 25,400 which was due on the 5th of this month. [00:13] Customer: Arre yaar, thoda tight chal raha hai is mahine. Salary thoda late aayegi. [00:18] Agent: I completely understand, sir. Unforeseen expenses do happen. However, I request you to clear this at the earliest to avoid any standard late payment charges as per your loan agreement and potential impact on your CIBIL score. [00:30] Customer: Samajh gaya. Main salary aate hi, matlab coming Friday tak pakka pay kar dunga. [00:35] Agent: Thank you for your cooperation, Mr. Sharma. I have noted your promise to pay for this coming Friday. Have a good day.

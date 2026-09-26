@@ -1,0 +1,11 @@
+Call_ID: EDGE_9302
+Agent_ID: AGT_702
+Customer_ID: CUST_80002
+Call_Timestamp: 2026-09-22T19:01:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Good evening, this call is recorded. This is Rohan from DEF Finance, a payment reminder.
+[00:10] Customer: Okay.
+[00:12] Agent: Your EMI is overdue by three days. Can you arrange it this week?
+[00:20] Customer: Yes, by Saturday.
+[00:23] Agent: Thank you, noted. Good evening.

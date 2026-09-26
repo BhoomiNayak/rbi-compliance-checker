@@ -1,0 +1,11 @@
+Call_ID: TRANSCRIPT_8906
+Agent_ID: AGT_305
+Customer_ID: CUST_51002
+Call_Timestamp: 2026-09-22T15:20:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Yeah, is this Mr. Verma? You owe money and you need to pay right now.
+[00:09] Customer: Who is this? You did not even tell me the call is recorded.
+[00:16] Agent: Doesn't matter. If you don't pay tomorrow I will send people to your office and tell your boss.
+[00:28] Customer: That is not right.
+[00:32] Agent: Pay up or face the consequences. Court case bhi ho sakta hai.

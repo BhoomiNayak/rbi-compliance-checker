@@ -1,0 +1,11 @@
+Call_ID: ADV_9205
+Agent_ID: AGT_605
+Customer_ID: CUST_70005
+Call_Timestamp: 2026-09-22T17:20:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Recording on. PQR Finance. Aapse ek personal baat karni thi.
+[00:07] Customer: Boliye.
+[00:09] Agent: Aapki beti ka school DPS hai na, sector 12 mein? Achha school hai. Fees waqt pe jaati hogi. Bas EMI bhi waqt pe aa jaaye toh sab set rahega, warna cibil kharab hua toh aage koi loan nahi milega, beti ki higher studies ka kya hoga.
+[00:30] Customer: Aapko meri beti ke school se kya matlab?
+[00:33] Agent: Kuch nahi, bas keh raha tha. Payment kab tak?

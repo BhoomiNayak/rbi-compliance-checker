@@ -1,0 +1,13 @@
+Call_ID: FILL_9404
+Agent_ID: AGT_904
+Customer_ID: CUST_9004
+Call_Timestamp: 2026-09-22T10:28:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Namaste, my name is Rahul calling from ABC Bank regarding your credit card dues. Please note that this call is being recorded for quality and training purposes.
+[00:15] Customer: Hi Rahul, I know my payment is due, but I am really tied up with some personal expenses this month.
+[00:25] Agent: I completely understand, Sir. We appreciate you sharing that. I am just calling to remind you that your minimum amount of 4,500 rupees was due on the 10th.
+[00:40] Customer: Yes, I want to pay, but can you please call me back next week? My salary will be credited by then.
+[00:52] Agent: Certainly, Sir. We can definitely schedule a callback. Please note that as per RBI guidelines, standard interest and late fees will continue to accrue on the outstanding balance until it is cleared.
+[01:10] Customer: That is fine, I am aware of the charges. Please call me next Tuesday around 11 AM.
+[01:19] Agent: Noted, Sir. I will schedule a callback for next Tuesday at 11:00 AM. Thank you for your time and cooperation. Have a good day.

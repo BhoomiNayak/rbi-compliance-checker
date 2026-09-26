@@ -1,0 +1,15 @@
+Call_ID: FILL_9407
+Agent_ID: AGT_907
+Customer_ID: CUST_9007
+Call_Timestamp: 2026-09-22T10:49:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Hello, am I speaking with Mr. Rajesh Kumar? Please note this call is being recorded for quality and training purposes. Good morning, sir. This is Amit calling from the customer support and account management team regarding your personal loan. How are you doing today?
+[00:15] Customer: Good morning, Amit. I am doing okay, just a bit stressed about finances lately. I know my EMI is delayed.
+[00:30] Agent: I completely understand, Mr. Rajesh, and please do not worry. We are here to help you find a sustainable solution, not to add to your stress. I see your account has missed the last two payments, and I wanted to check how we can support you in getting this regularized.
+[00:50] Customer: Honestly, my business faced some cash flow issues last month, so I just couldn't arrange the full amount of twenty-five thousand rupees.
+[01:10] Agent: Thank you for being open with me, sir. Given your genuine situation, I can offer you a structured restructuring plan where we extend your tenure by six months, which will significantly lower your monthly installment to a manageable amount.
+[01:30] Customer: That sounds like a big relief. Will there be any extra penalties if I opt for this restructuring?
+[01:45] Agent: We will waive the late fees as a goodwill gesture once you pay a nominal processing fee and enroll in the revised plan today. This will also protect your CIBIL score from further negative impacts and keep your account in regular standing.
+[02:05] Customer: That is very reasonable, Amit. Let us go ahead with this restructuring plan. Please let me know the steps to complete it.
+[02:20] Agent: Thank you for your cooperation, Mr. Rajesh. I am sending the revised repayment schedule and consent link to your registered mobile number right now. You can review and approve it at your convenience. Have a wonderful day ahead!

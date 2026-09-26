@@ -1,0 +1,13 @@
+Call_ID: FP_9103
+Agent_ID: AGT_503
+Customer_ID: CUST_60003
+Call_Timestamp: 2026-09-22T12:05:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Hello, this call is recorded for quality. This is Anjali from GHI Bank collections. Am I speaking with Mr. Khan?
+[00:11] Customer: Yes. Look, I already told your colleague I'm disputing this charge.
+[00:18] Agent: Understood, sir. I can see a dispute is noted. While the dispute is reviewed, I'd still like to confirm your contact details are current. I will not pressure you for payment on the disputed amount.
+[00:34] Customer: Fine, my number is the same.
+[00:38] Agent: Thank you. You'll hear from our disputes team within 7 working days. Is there anything else I can help with?
+[00:47] Customer: No, that's all.
+[00:49] Agent: Thank you for your time. Goodbye.

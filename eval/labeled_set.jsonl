@@ -1,0 +1,33 @@
+{"file": "TRANSCRIPT_8903_AGT_119.txt", "source_dir": "samples", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "clean"}
+{"file": "TRANSCRIPT_8902_AGT_402.txt", "source_dir": "samples", "expected_status": "NON_COMPLIANT", "expected_categories": ["time_of_day", "harassment", "threat", "consent"], "kind": "overt"}
+{"file": "TRANSCRIPT_8904_AGT_402.txt", "source_dir": "samples", "expected_status": "REVIEW", "expected_categories": ["time_of_day"], "kind": "timing"}
+{"file": "TRANSCRIPT_8905_AGT_211.txt", "source_dir": "samples", "expected_status": "NON_COMPLIANT", "expected_categories": ["harassment", "threat"], "kind": "overt"}
+{"file": "TRANSCRIPT_8906_AGT_305.txt", "source_dir": "samples", "expected_status": "NON_COMPLIANT", "expected_categories": ["threat", "consent"], "kind": "overt"}
+{"file": "FP_9101_AGT_501.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "false_positive"}
+{"file": "FP_9102_AGT_502.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "false_positive"}
+{"file": "FP_9103_AGT_503.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "false_positive"}
+{"file": "FP_9104_AGT_504.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "false_positive"}
+{"file": "FP_9105_AGT_505.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "false_positive"}
+{"file": "ADV_9201_AGT_601.txt", "source_dir": "eval_corpus", "expected_status": "NON_COMPLIANT", "expected_categories": ["threat"], "kind": "subtle_threat"}
+{"file": "ADV_9202_AGT_602.txt", "source_dir": "eval_corpus", "expected_status": "NON_COMPLIANT", "expected_categories": ["threat"], "kind": "subtle_threat"}
+{"file": "ADV_9203_AGT_603.txt", "source_dir": "eval_corpus", "expected_status": "NON_COMPLIANT", "expected_categories": ["threat"], "kind": "subtle_threat"}
+{"file": "ADV_9204_AGT_604.txt", "source_dir": "eval_corpus", "expected_status": "NON_COMPLIANT", "expected_categories": ["threat"], "kind": "subtle_threat"}
+{"file": "ADV_9205_AGT_605.txt", "source_dir": "eval_corpus", "expected_status": "NON_COMPLIANT", "expected_categories": ["threat"], "kind": "subtle_threat"}
+{"file": "EDGE_9301_AGT_701.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "edge_boundary"}
+{"file": "EDGE_9302_AGT_702.txt", "source_dir": "eval_corpus", "expected_status": "REVIEW", "expected_categories": ["time_of_day"], "kind": "edge_boundary"}
+{"file": "EDGE_9303_AGT_703.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "edge_consent"}
+{"file": "EDGE_9304_AGT_704.txt", "source_dir": "eval_corpus", "expected_status": "NON_COMPLIANT", "expected_categories": ["time_of_day", "harassment", "threat", "consent"], "kind": "overt"}
+{"file": "FILL_9400_AGT_900.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9401_AGT_901.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9402_AGT_902.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9403_AGT_903.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9404_AGT_904.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9405_AGT_905.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9406_AGT_906.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9407_AGT_907.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9408_AGT_908.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9409_AGT_909.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9410_AGT_910.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9411_AGT_911.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9412_AGT_912.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}
+{"file": "FILL_9413_AGT_913.txt", "source_dir": "eval_corpus", "expected_status": "COMPLIANT", "expected_categories": [], "kind": "filler"}

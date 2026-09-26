@@ -1,0 +1,11 @@
+Call_ID: TRANSCRIPT_8903
+Agent_ID: AGT_119
+Customer_ID: CUST_20431
+Call_Timestamp: 2026-09-22T11:10:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Good morning, this is Priya from XYZ Finance. This call is being recorded for quality purposes. Am I speaking with Mr. Sharma?
+[00:12] Customer: Yes, speaking.
+[00:18] Agent: Sir, this is a reminder that your EMI of 4,500 rupees was due on the 20th. Would you be able to make the payment this week?
+[00:35] Customer: Yes, I'll pay by Friday.
+[00:42] Agent: Thank you, sir. I'll note that as a promise to pay by Friday. Have a good day.

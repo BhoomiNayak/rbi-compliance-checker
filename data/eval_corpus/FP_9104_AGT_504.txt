@@ -1,0 +1,11 @@
+Call_ID: FP_9104
+Agent_ID: AGT_504
+Customer_ID: CUST_60004
+Call_Timestamp: 2026-09-22T18:50:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Good evening, this call is being recorded. This is Vikram from JKL Finance. Sorry to call a little late, is this a convenient time to talk?
+[00:12] Customer: It's okay, I have two minutes.
+[00:15] Agent: Thank you. Just a courtesy reminder that your EMI is due tomorrow. No action needed if you've already scheduled it.
+[00:26] Customer: Yes, auto-debit is set up.
+[00:29] Agent: Perfect, then you're all set. Apologies again for the evening call. Have a good night.

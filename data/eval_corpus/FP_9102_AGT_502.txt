@@ -1,0 +1,11 @@
+Call_ID: FP_9102
+Agent_ID: AGT_502
+Customer_ID: CUST_60002
+Call_Timestamp: 2026-09-22T16:40:00
+Call_Count_Today: 2
+---
+[00:00] Agent: Namaste, yeh call recording ke liye record ho rahi hai. Main Suresh bol raha hoon DEF Finance se, aapke two-wheeler loan ke baare mein.
+[00:14] Customer: Haan boliye.
+[00:17] Agent: Sir aapki do EMI pending hain. Legally, agar payment nahi hoti toh recovery ka process aage badh sakta hai aur credit bureau mein report jaata hai. Yeh main aapko standard jankari de raha hoon.
+[00:36] Customer: Samajh gaya, agle hafte kar dunga.
+[00:40] Agent: Bilkul, koi baat nahi. Main promise-to-pay note kar leta hoon agle Tuesday ke liye. Agar zarurat ho toh EMI restructure ka option bhi hai. Dhanyavaad.

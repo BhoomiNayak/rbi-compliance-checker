@@ -1,0 +1,7 @@
+Call_ID: FILL_9405
+Agent_ID: AGT_905
+Customer_ID: CUST_9005
+Call_Timestamp: 2026-09-22T10:35:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Namaskar, this is calling from ABC Bank regarding your personal loan EMI. Please note that this call is being recorded for quality and training purposes. Am I speaking with Mr. Sharma? [00:03] Customer: Haan, bolie, main Sharma baat kar raha hoon. [00:06] Agent: Hello Sir, good morning. We are calling to gently remind you that your monthly EMI of rupees twelve thousand five hundred for your loan account ending in 4589 was due on the tenth of this month and is currently pending. [00:13] Customer: Arrey, main thoda bhool gaya tha. Salary thoda late aayegi is baar, isliye ek hafte ka time mil sakta hai kya? [00:20] Agent: I understand Sir, delays can happen. However, please note that as per bank policy, keeping the account overdue may attract nominal late charges and could affect your CIBIL score. We want to help you avoid that. [00:29] Customer: Haan, main samajh raha hoon. Main pakka agle Friday, matlab 22 taarikh tak payment kar doonga online. [00:36] Agent: Thank you for your cooperation, Mr. Sharma. I have noted your promise to pay by the twenty-second of this month in our system. You can use the mobile app to pay when ready. Have a good day.

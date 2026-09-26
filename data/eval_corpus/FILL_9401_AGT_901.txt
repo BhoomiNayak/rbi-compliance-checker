@@ -1,0 +1,7 @@
+Call_ID: FILL_9401
+Agent_ID: AGT_901
+Customer_ID: CUST_9001
+Call_Timestamp: 2026-09-22T10:07:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Hello, I am calling from HDFC Bank regarding your credit card dues. Please note that this call is being recorded for quality and training purposes. Am I speaking with Mr. Rajesh Kumar? [00:02] Customer: Yes, speaking. But I have already paid my bill yesterday through Google Pay. [00:05] Agent: Thank you for the update, Mr. Kumar, and apologies for any inconvenience. Could you please share the transaction reference number or screenshot on our official WhatsApp number to help us update our records? [00:09] Customer: Sure, I will send it right now. I was worried why it was still showing pending. [00:12] Agent: I understand your concern. Once we verify the reference number, the payment will reflect in your account within twenty-four hours, and your file will be updated automatically. [00:15] Customer: Great, thanks for checking. I will send the screenshot immediately. [00:18] Agent: Thank you for your time and cooperation, Mr. Kumar. Have a good day.

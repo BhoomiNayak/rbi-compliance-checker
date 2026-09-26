@@ -1,0 +1,7 @@
+Call_ID: FILL_9409
+Agent_ID: AGT_909
+Customer_ID: CUST_9009
+Call_Timestamp: 2026-09-22T11:03:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Hello, am I speaking with Mr. Rajesh Sharma? Please note this call is being recorded for quality and training purposes. [00:05] Customer: Yes, I am Rajesh speaking. Tell me. [00:09] Agent: Good morning, Mr. Sharma. I am calling from ABC Bank regarding your credit card dues of Rs. 15,400 which were due on the 5th of this month. [00:18] Customer: Look, I am actually in the middle of an important office meeting right now. Can you please call me back later? [00:25] Agent: Certainly, Mr. Sharma. We completely understand. When would be a convenient time for you today to receive a callback? [00:33] Customer: Call me around 4:30 PM in the evening. I will be free then. [00:39] Agent: Noted, Sir. I will schedule a callback for 4:30 PM today. Please be advised that clearing the dues at the earliest helps avoid any late payment charges as per bank policy. Have a good day. [00:52] Customer: Okay, thank you. Bye.

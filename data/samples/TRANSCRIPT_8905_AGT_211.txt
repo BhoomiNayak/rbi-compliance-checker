@@ -1,0 +1,11 @@
+Call_ID: TRANSCRIPT_8905
+Agent_ID: AGT_211
+Customer_ID: CUST_44190
+Call_Timestamp: 2026-09-22T14:05:00
+Call_Count_Today: 5
+---
+[00:00] Agent: Hello, XYZ Finance calling again about your overdue EMI. This call is recorded for quality.
+[00:11] Customer: You have already called me four times today, please stop.
+[00:18] Agent: We will keep calling until you pay. When will the payment come?
+[00:30] Customer: I told you, next week after salary.
+[00:37] Agent: That is not acceptable. Expect more calls today.

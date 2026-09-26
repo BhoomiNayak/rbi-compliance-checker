@@ -1,0 +1,11 @@
+Call_ID: ADV_9202
+Agent_ID: AGT_602
+Customer_ID: CUST_70002
+Call_Timestamp: 2026-09-22T11:45:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Recording on hai. PQR Finance se baat kar rahe hain.
+[00:07] Customer: Haan.
+[00:09] Agent: Aapke office ka address hamare paas hai. Accha lagega kya agar hum wahan aake aapke colleagues ke saamne yeh discuss karein? Aapki toh acchi reputation hai office mein, usko kharab karne ka koi matlab nahi banta na.
+[00:27] Customer: Aap aisa mat kijiye please.
+[00:30] Agent: Toh phir aap payment kijiye. Simple hai. Warna hum majboor ho jayenge.

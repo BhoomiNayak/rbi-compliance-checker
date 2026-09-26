@@ -1,0 +1,70 @@
+# =============================================================================
+# RBI Recovery-Agent Compliance Rulebook  (CONFIGURABLE)
+# -----------------------------------------------------------------------------
+# Compliance reviewers may edit this file directly. The engine reloads it on the
+# next run. Clause references are PLACEHOLDERS and must be verified against the
+# official RBI Master Direction / Fair Practices Code before regulatory use.
+# =============================================================================
+
+# Permissible calling window (local time, 24h HH:MM). Checked deterministically.
+hours:
+  start: "08:00"
+  end: "19:00"
+
+# Maximum outreach attempts to a single borrower per day. Checked deterministically.
+harassment:
+  max_calls_per_day: 2
+
+# Recording / identity disclosure expected early in the call. Assessed by LLM.
+consent:
+  phrases:
+    - "this call is being recorded"
+    - "call is recorded for quality"
+    - "recording purposes"
+    - "yeh call record ho rahi hai"
+    - "call record ki ja rahi hai"
+
+# Threat & coercion seed lexicon. The LLM judges CONTEXT — a mention is not
+# automatically a violation; a threat or coercion is.
+threats:
+  lexicon:
+    english:
+      - police
+      - jail
+      - arrest
+      - court
+      - legal action
+      - warrant
+      - home visit
+      - public shaming
+      - defamation
+    hinglish:
+      - "police leke aaunga"
+      - "police bula lunga"
+      - "jail bhijwa dunga"
+      - "arrest karwa dunga"
+      - "court le jaunga"
+      - "ghar aa jaunga"
+      - "ghar pe aake"
+      - "beizzati"
+      - "izzat utaar"
+      - "mohalle mein"
+      - "sabko bata dunga"
+
+# Deterministic scoring contribution per severity level.
+severity_weights:
+  CRITICAL: 40
+  WARNING: 20
+  INFO: 5
+
+# Score thresholds for status classification (0-100).
+thresholds:
+  non_compliant_score: 40
+  review_score: 10
+
+# CONFIGURABLE clause references — VERIFY against official RBI text.
+clauses:
+  time_of_day: "RBI Fair Practices Code — permissible calling hours 08:00–19:00 (verify exact clause)"
+  threat: "RBI Master Direction — prohibition of harassment & coercion by recovery agents (verify exact clause)"
+  consent: "RBI recording / identity disclosure requirement (verify exact clause)"
+  harassment: "RBI limits on frequency of borrower contact (verify exact clause)"

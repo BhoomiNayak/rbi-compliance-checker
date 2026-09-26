@@ -1,0 +1,13 @@
+Call_ID: EDGE_9303
+Agent_ID: AGT_703
+Customer_ID: CUST_80003
+Call_Timestamp: 2026-09-22T10:00:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Hello, this is Farhan from GHI Finance about your loan account. Am I speaking with Ms. Rao?
+[00:09] Customer: Yes, but shouldn't you tell me if this is recorded?
+[00:14] Agent: Ah yes, my apologies. Yes, this call is being recorded for quality purposes. Thank you for the reminder.
+[00:22] Customer: Okay, go on.
+[00:24] Agent: Your EMI is due on the 25th, just a friendly heads up. Nothing else needed if it's scheduled.
+[00:33] Customer: It is, thanks.
+[00:35] Agent: Great, have a good day.

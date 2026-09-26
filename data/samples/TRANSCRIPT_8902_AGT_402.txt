@@ -1,0 +1,12 @@
+Call_ID: TRANSCRIPT_8902
+Agent_ID: AGT_402
+Customer_ID: CUST_11876
+Call_Timestamp: 2026-09-22T19:45:00
+Call_Count_Today: 3
+---
+[00:00] Agent: Haan ji, main XYZ Finance se baat kar raha hoon. Aapki EMI pending hai.
+[00:15] Customer: Ji thoda time chahiye, salary late ho gayi hai.
+[01:22] Agent: Dekhiye, agar kal tak EMI nahi aayi toh ghar pe police leke aaunga, samajh rahe ho?
+[01:40] Customer: Sir aisa mat boliye, main koshish kar raha hoon.
+[02:05] Agent: Koshish se kaam nahi chalega. Poore mohalle mein beizzati kara dunga.
+[02:30] Customer: Theek hai sir, main kal tak arrange karta hoon.

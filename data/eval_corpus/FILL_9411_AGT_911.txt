@@ -1,0 +1,7 @@
+Call_ID: FILL_9411
+Agent_ID: AGT_911
+Customer_ID: CUST_9011
+Call_Timestamp: 2026-09-22T11:17:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Namaste, this call is being recorded for quality and training purposes. Am I speaking with Mr. Rajesh Kumar? [00:01] Customer: Yes, speaking. But why are you calling again? I already paid my credit card bill yesterday. [00:03] Agent: Thank you for confirming, sir, and I apologize for any inconvenience. I am calling from the bank's resolution department to verify your payment status and update our records. [00:06] Customer: I paid through net banking. The amount was debited from my account. [00:08] Agent: Thank you for sharing that information, Mr. Kumar. Could you please share the transaction reference number or the date of payment so I can trace it in our system? [00:11] Customer: Sure, the reference number is UPI/3284920192 on yesterday's date. [00:13] Agent: Perfect, I have noted that down. Once our finance team reconciles the transaction within twenty-four to forty-eight hours, your account status will be automatically updated. [00:15] Customer: Alright, please make sure it is updated so I do not get any more calls. [00:17] Agent: Absolutely, sir. We will update it right away. Thank you for your time and cooperation, and have a good day.

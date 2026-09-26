@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+myenv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Generated reports
+*.pdf
+!docs/**/*.pdf

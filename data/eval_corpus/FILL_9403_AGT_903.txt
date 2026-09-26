@@ -1,0 +1,7 @@
+Call_ID: FILL_9403
+Agent_ID: AGT_903
+Customer_ID: CUST_9003
+Call_Timestamp: 2026-09-22T10:21:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Good morning, this is calling from Apex Financial Services regarding a personal loan account. Please note that this call is being recorded for quality and training purposes. Am I speaking with Mr. Rajesh Kumar? [00:02] Customer: No, you have the wrong number. My name is Ramesh, and I don't know any Rajesh Kumar. [00:05] Agent: I sincerely apologize for the inconvenience caused to you, Mr. Ramesh. I will update our system immediately to remove this number from our calling database. [00:07] Customer: Thank you, please make sure you do that because I keep getting these calls. [00:09] Agent: Absolutely, I have noted this down right now. Thank you for your time, and sorry again for the disturbance. Have a good day.

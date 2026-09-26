@@ -1,0 +1,11 @@
+Call_ID: EDGE_9304
+Agent_ID: AGT_704
+Customer_ID: CUST_80004
+Call_Timestamp: 2026-09-22T20:15:00
+Call_Count_Today: 4
+---
+[00:00] Agent: Recorded line. JKL Finance. You still haven't paid.
+[00:06] Customer: It's 8 at night and you've called me all day.
+[00:11] Agent: And I'll keep calling. Sunte nahi ho kya? Kal police station chaloge kya mere saath?
+[00:19] Customer: You can't threaten me like this.
+[00:22] Agent: Main dekh leta hoon kaise nahi hota. Payment karo, warna anjaam bura hoga.

@@ -1,0 +1,11 @@
+Call_ID: ADV_9203
+Agent_ID: AGT_603
+Customer_ID: CUST_70003
+Call_Timestamp: 2026-09-22T14:30:00
+Call_Count_Today: 1
+---
+[00:00] Agent: This is a recorded line. STU Finance here about your overdue account.
+[00:08] Customer: I know, I'm trying.
+[00:11] Agent: Trying is nice. But you know how these things go. People who don't pay, their family gets involved eventually. Your father co-signed, correct? Would be a shame for him to start getting calls at his age.
+[00:29] Customer: Please leave my father out of this.
+[00:32] Agent: Then don't make us go there. Pay by Friday and nobody needs to be troubled.

@@ -1,0 +1,14 @@
+Call_ID: FILL_9412
+Agent_ID: AGT_912
+Customer_ID: CUST_9012
+Call_Timestamp: 2026-09-22T11:24:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Hello, am I speaking with Mr. Rajesh Sharma? Please note this call is being recorded for quality and training purposes. Good morning, sir. I am calling from the customer support team regarding your active loan account with us.
+[00:15] Customer: Good morning. Yes, this is Rajesh. Look, I know the EMI is delayed, but things have been really tight financially this month.
+[00:30] Agent: I completely understand, Mr. Sharma, and we appreciate you taking the time to speak with me. We know that unexpected financial constraints can happen to anyone.
+[00:45] Customer: It is just that paying the full amount right now will completely empty my account. I do not know what to do.
+[01:00] Agent: You do not need to worry about that. We want to support you through this phase lawfully and comfortably. Would you be open to a loan restructuring option where we can extend your tenure and lower your monthly installment?
+[01:15] Customer: Really? That would actually help me a lot. How does that work?
+[01:30] Agent: I can initiate a formal restructuring request for you right now, which will help avoid any standard late fees or impact on your CIBIL score due to further delays. Shall I go ahead and share the details on your registered email?
+[01:45] Customer: Yes, please do that. Thank you for being so understanding.

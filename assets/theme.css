@@ -1,0 +1,166 @@
+/* Craft AI-inspired theme — warm, editorial, card-based.
+   See docs/DESIGN_SYSTEM.md for the palette rationale. */
+
+:root {
+  --cream: #F7F3ED;
+  --surface: #FFFFFF;
+  --ink: #2B2622;
+  --muted-ink: #6B6259;
+  --brick: #C6482B;
+  --terracotta: #D97A5A;
+  --soft-pink: #F3D9D2;
+  --sand: #EBD9BE;
+  --sage: #C7D2C0;
+  --maroon: #5E2A2A;
+  --border: #E4DBCF;
+}
+
+/* Page canvas */
+.stApp {
+  background-color: var(--cream);
+  color: var(--ink);
+}
+
+.block-container {
+  padding-top: 2.2rem;
+  max-width: 1180px;
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  font-weight: 700;
+}
+
+.rbi-hero {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-bottom: 0.2rem;
+}
+.rbi-logo {
+  width: 40px; height: 40px; border-radius: 10px;
+  background: var(--brick); color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 800; font-size: 1.1rem;
+}
+.rbi-sub {
+  color: var(--muted-ink);
+  font-size: 0.98rem;
+  margin: 0.1rem 0 1.3rem 0;
+}
+
+/* Metric tiles (Craft AI colored feature cards) */
+.tile {
+  border-radius: 16px;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--border);
+  height: 100%;
+}
+.tile .tile-label { font-size: 0.82rem; color: var(--muted-ink); margin-bottom: 0.35rem; }
+.tile .tile-value { font-size: 1.9rem; font-weight: 800; line-height: 1; }
+.tile-pink { background: var(--soft-pink); }
+.tile-sand { background: var(--sand); }
+.tile-sage { background: var(--sage); }
+.tile-maroon { background: var(--maroon); color: #F7F3ED; }
+.tile-maroon .tile-label { color: #E9D7D0; }
+
+/* Cards / panels */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 0.9rem;
+}
+
+/* Status pills */
+.pill {
+  display: inline-block;
+  padding: 0.18rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.pill-compliant { background: #E3ECDD; color: #4F7A52; }
+.pill-review { background: #F3E7C9; color: #9A7B2E; }
+.pill-noncompliant { background: var(--soft-pink); color: var(--brick); }
+
+/* Violation cards */
+.viol {
+  border-radius: 14px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.65rem;
+  border: 1px solid var(--border);
+  border-left-width: 5px;
+  background: var(--surface);
+}
+.viol-critical { border-left-color: var(--brick); }
+.viol-warning { border-left-color: #C79A3A; }
+.viol-info { border-left-color: var(--muted-ink); }
+.viol .viol-head { display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; }
+.viol .viol-type { font-weight: 700; color: var(--ink); }
+.viol .viol-sev {
+  font-size: 0.7rem; font-weight: 800; padding: 0.1rem 0.5rem; border-radius: 999px;
+}
+.sev-critical { background: var(--soft-pink); color: var(--brick); }
+.sev-warning { background: #F3E7C9; color: #9A7B2E; }
+.sev-info { background: #ECE6DC; color: var(--muted-ink); }
+.viol .viol-quote {
+  margin: 0.5rem 0 0.35rem 0; padding: 0.5rem 0.7rem;
+  background: var(--cream); border-radius: 8px;
+  font-style: italic; color: var(--ink);
+}
+.viol .viol-meta { font-size: 0.78rem; color: var(--muted-ink); }
+.src-badge {
+  font-size: 0.68rem; font-weight: 700; padding: 0.05rem 0.45rem; border-radius: 6px;
+  background: #ECE6DC; color: var(--muted-ink); margin-left: 0.4rem;
+}
+
+/* Transcript panel */
+.transcript {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1rem 1.15rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.86rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  max-height: 560px;
+  overflow-y: auto;
+  color: var(--ink);
+}
+
+/* Buttons */
+.stButton > button, .stDownloadButton > button {
+  background: var(--brick);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  padding: 0.5rem 1.1rem;
+}
+.stButton > button:hover, .stDownloadButton > button:hover {
+  background: var(--terracotta);
+  color: #fff;
+}
+
+/* File uploader */
+[data-testid="stFileUploaderDropzone"] {
+  background: var(--surface);
+  border: 1.5px dashed var(--terracotta);
+  border-radius: 14px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+  background: #FBF8F3;
+  border-right: 1px solid var(--border);
+}
+
+/* Hide default Streamlit chrome for a cleaner demo */
+#MainMenu { visibility: hidden; }
+footer { visibility: hidden; }

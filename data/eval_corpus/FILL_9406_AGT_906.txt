@@ -1,0 +1,7 @@
+Call_ID: FILL_9406
+Agent_ID: AGT_906
+Customer_ID: CUST_9006
+Call_Timestamp: 2026-09-22T10:42:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Namaskar, this is Vikram calling from HDFC Bank regarding your credit card dues. Please note that this call is being recorded for quality and training purposes. Am I speaking with Mr. Rajesh Kumar? [00:01] Customer: Haanji bolie, Rajesh here. But main toh payment kar diya hai subah hi. [00:02] Agent: Thank you for confirming, sir, and I appreciate you making the payment today. Let me just verify the transaction in our system so I can update your account status. [00:03] Customer: Haan check kar lijiye, maine net banking se kiya hai reference ID mere paas hai. [00:04] Agent: Thank you for your patience, Mr. Kumar. I can see the payment of twelve thousand five hundred rupees has been successfully updated in our system. Your account is now fully clear. [00:05] Customer: Great, thanks for updating. [00:06] Agent: You are most welcome, sir. Is there anything else I can assist you with today? [00:07] Customer: No, that is all. Thank you. [00:08] Agent: Thank you for banking with us. Have a wonderful day, goodbye.

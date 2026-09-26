@@ -1,0 +1,7 @@
+Call_ID: FILL_9410
+Agent_ID: AGT_910
+Customer_ID: CUST_9010
+Call_Timestamp: 2026-09-22T11:10:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Namaskar, this call is being recorded for quality and training purposes. Am I speaking with Mr. Rajesh Kumar? [00:03] Customer: Haan boliyen, main Rajesh baat kar raha hoon. [00:06] Agent: Hello Mr. Kumar, calling from Apex Financial Services regarding your personal loan EMI of Rs. 12,400 which was due on the 5th of this month. [00:13] Customer: Arrey, thoda financial crunch chal raha hai is mahine, salary thodi late ho gayi hai. [00:19] Agent: I understand sir, delays can happen. However, I request you to clear the overdue amount soon to avoid any late payment charges as per your loan agreement and potential impact on your CIBIL score. [00:30] Customer: Samajh gaya. Main ye payment Friday tak pakka clear kar dunga. [00:35] Agent: Thank you Mr. Kumar for your cooperation. I have noted your promise to pay for this Friday. Have a good day.

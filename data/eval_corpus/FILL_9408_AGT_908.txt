@@ -1,0 +1,7 @@
+Call_ID: FILL_9408
+Agent_ID: AGT_908
+Customer_ID: CUST_9008
+Call_Timestamp: 2026-09-22T10:56:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Hello, I am calling from Apex Financial Services regarding loan account number 4059, and please note that this call is being recorded for quality and training purposes. Am I speaking with Mr. Rajesh Kumar? [00:03] Customer: No, I think you have the wrong number. My name is Suresh, and I have no idea who Rajesh is. [00:06] Agent: Apologies for the inconvenience caused to you, sir. Could you please confirm if this number has been associated with Mr. Kumar previously? [00:09] Customer: No, I have been using this number for the last five years. There is no Rajesh here. [00:12] Agent: Thank you for the clarification, Mr. Suresh. I sincerely apologize for the disturbance, and I will update our records immediately to remove this number. Have a good day. [00:15] Customer: Thank you. Please make sure you update it. Goodbye.

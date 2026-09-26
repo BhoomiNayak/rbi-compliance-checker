@@ -1,0 +1,9 @@
+Call_ID: EDGE_9301
+Agent_ID: AGT_701
+Customer_ID: CUST_80001
+Call_Timestamp: 2026-09-22T19:00:00
+Call_Count_Today: 2
+---
+[00:00] Agent: Good evening, recorded line, this is Kavya from ABC Finance. Quick reminder your EMI is due.
+[00:10] Customer: Noted, will pay tomorrow.
+[00:13] Agent: Thank you, noted. Good night.

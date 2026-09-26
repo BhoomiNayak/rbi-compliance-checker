@@ -1,0 +1,11 @@
+Call_ID: ADV_9204
+Agent_ID: AGT_604
+Customer_ID: CUST_70004
+Call_Timestamp: 2026-09-22T15:00:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Recording is on. VWX Finance calling.
+[00:06] Customer: Yes?
+[00:08] Agent: Sir, main aapko dhamki nahi de raha, bilkul nahi. Bas itna keh raha hoon ki mere paas aapki puri details hain, ghar ka address, photo, sab. Main toh bas keh raha hoon ki log inn cheezon ka istemaal galat tarike se bhi karte hain. Main aisa nahi karunga, par pata nahi agla banda kaisa ho.
+[00:30] Customer: Yeh toh dhamki hi hai.
+[00:33] Agent: Nahi nahi, main toh aapki bhalai ke liye keh raha hoon. Payment kar dijiye, tension khatam.

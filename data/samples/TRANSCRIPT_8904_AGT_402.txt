@@ -1,0 +1,11 @@
+Call_ID: TRANSCRIPT_8904
+Agent_ID: AGT_402
+Customer_ID: CUST_33210
+Call_Timestamp: 2026-09-22T06:30:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Good morning, this is Rahul from XYZ Finance. This call is being recorded for quality purposes.
+[00:14] Customer: It's very early, why are you calling now?
+[00:20] Agent: Apologies sir, just a quick reminder that your EMI is due. Can you pay this week?
+[00:35] Customer: Yes, I will pay by Thursday.
+[00:41] Agent: Thank you, noted. Have a good day.

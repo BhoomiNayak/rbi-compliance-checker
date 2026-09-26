@@ -1,0 +1,13 @@
+Call_ID: FP_9101
+Agent_ID: AGT_501
+Customer_ID: CUST_60001
+Call_Timestamp: 2026-09-22T10:30:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Good morning, this call is being recorded for quality and training. This is Meena from ABC Finance regarding your personal loan account.
+[00:12] Customer: Okay, go ahead.
+[00:16] Agent: Sir, your EMI of 6,200 rupees was due on the 18th and is currently overdue. I wanted to understand if there is any difficulty.
+[00:30] Customer: Cash flow is tight this month.
+[00:35] Agent: I understand. As per your loan terms there is a late fee, and continued non-payment can affect your credit score. Those are the standard consequences I must inform you about. Would a payment by the 28th be feasible?
+[00:55] Customer: Yes, I can manage by the 28th.
+[01:00] Agent: Thank you. I'll note a promise to pay by the 28th. If your situation changes, you may also request a restructuring through our helpline. Have a good day.

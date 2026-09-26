@@ -1,0 +1,13 @@
+Call_ID: FP_9105
+Agent_ID: AGT_505
+Customer_ID: CUST_60005
+Call_Timestamp: 2026-09-22T09:15:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Good morning, recorded for quality. Rekha from MNO Finance. I'm calling about the legal notice that was mailed to you last week, just to make sure you received it.
+[00:14] Customer: Yes I got it. Sounds serious.
+[00:18] Agent: I want to be clear: the notice is a standard step our legal team follows for accounts overdue past 90 days. It is informational. You have the right to respond and to seek settlement. I'm here to help you avoid escalation, not to threaten you.
+[00:40] Customer: What are my options?
+[00:43] Agent: You can pay the overdue amount, or apply for a one-time settlement. I can email you both options today. Which do you prefer?
+[00:54] Customer: Email me the settlement option.
+[00:57] Agent: Done. You'll have it within the hour. Thank you.

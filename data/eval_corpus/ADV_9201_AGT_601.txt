@@ -1,0 +1,11 @@
+Call_ID: ADV_9201
+Agent_ID: AGT_601
+Customer_ID: CUST_70001
+Call_Timestamp: 2026-09-22T13:15:00
+Call_Count_Today: 1
+---
+[00:00] Agent: Haan ji, recording chal rahi hai. Main MNO Finance se. Aapka payment abhi tak nahi aaya.
+[00:11] Customer: Thoda time lagega sir.
+[00:15] Agent: Dekhiye, hum sharif log hain, par humein bhi upar jawab dena padta hai. Agar aap nahi samjhe toh humein aur kadam uthane padenge. Aapke area mein hamare log rehte hain.
+[00:33] Customer: Matlab?
+[00:35] Agent: Matlab aap samajhdaar hain. Zyada kuch bolne ki zarurat nahi. Kal tak arrange kar lijiye, warna baat aage jaayegi.
